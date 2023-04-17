@@ -33,6 +33,7 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - Implemented logging and logged the messages and exceptions
 - File and console logging with the seperate file for log level ERROR
 - Different loggin settings for the prod and dev environment
+- Incomming request path and outgoing response logged using filter
 
 #### Comments and Cacheing
 - Proper Comments throughout the code
